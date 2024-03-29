@@ -1,0 +1,13 @@
+Load the data from backend db in grid.
+one every page change, bring the data from server.
+Alert the user to either save the changes and continue to next page, or ignore changes and continue to the next page or cancel page changing itself.
+Find the changes in grid and save it to the backend db.
+
+ReactJS + Spring Boot + SQLite/H2
+Streamlit + Flask + SQLite/H2
+Dash + Flask + SQLite/H2
+
+Ag-Grid
+
+
+
